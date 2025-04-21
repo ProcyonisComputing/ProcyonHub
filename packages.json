@@ -3,5 +3,10 @@
     "version": "1.0.0",
     "dependencies": ["libfoo", "libbar"],
     "docs": "testapp.md"
+  },
+  "libfoo": {
+   "version": "1.0.0",
+   "dependencies":[],
+   "docs": "libfoo.md"
   }
 }
