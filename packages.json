@@ -1,7 +1,7 @@
 {
   "testapp": {
     "version": "1.0.0",
-    "dependencies": ["libfoo", "libbar"],
+    "dependencies": "libfoo",
     "docs": "testapp.md"
   },
   "libfoo": {
