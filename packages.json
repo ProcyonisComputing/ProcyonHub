@@ -1,12 +1,12 @@
 {
-  "testapp": {
-    "version": "1.0.0",
-    "dependencies": ["libfoo"],
-    "docs": "testapp.md"
+  "LibLinea": {
+    "version": "v2.1.0",
+    "dependencies": [],
+    "docs": "README.md"
   },
-  "libfoo": {
-   "version": "1.0.0",
-   "dependencies":[],
-   "docs": "libfoo.md"
+  "Linea": {
+   "version": "v2.1.0",
+   "dependencies":["LibLinea"],
+   "docs": "README.md"
   }
 }
